@@ -1,0 +1,9 @@
+{
+  "name": "Amitha’s Personal App",
+  "short_name": "AmithaApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
